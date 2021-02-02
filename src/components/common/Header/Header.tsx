@@ -40,6 +40,7 @@ const Header: React.SFC<HeaderProps> = () => {
                   <a
                     href="https://www.facebook.com/chamodshehanka"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <img
                       src="https://png.icons8.com/facebook/color/24"
@@ -51,6 +52,7 @@ const Header: React.SFC<HeaderProps> = () => {
                   <a
                     href="https://www.instagram.com/chamodshehanka/"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <img
                       src="https://png.icons8.com/instagram/color/24"
@@ -59,7 +61,7 @@ const Header: React.SFC<HeaderProps> = () => {
                       height="40"
                     />
                   </a>
-                  <a href="https://twitter.com/chamodhshehanka" target="_blank">
+                  <a href="https://twitter.com/chamodhshehanka" target="_blank" rel="noopener noreferrer">
                     <img
                       src="https://png.icons8.com/twitter/color/24"
                       title="Twitter"
@@ -70,6 +72,7 @@ const Header: React.SFC<HeaderProps> = () => {
                   <a
                     href="https://www.linkedin.com/in/chamod-shehanka-a61583136?trk=hp-identity-name"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <img
                       src="https://png.icons8.com/linkedin/color/24"
