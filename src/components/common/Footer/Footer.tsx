@@ -42,7 +42,7 @@ const Footer: React.SFC<FooterProps> = () => {
                 <li>
                   <a
                     className="grey-text text-lighten-3"
-                    href="https://www.facebook.com/chamodshehanka"
+                    href="https://www.facebook.com/sliitfoss"
                     target="_blank"
                   >
                     Facebook
@@ -51,7 +51,7 @@ const Footer: React.SFC<FooterProps> = () => {
                 <li>
                   <a
                     className="grey-text text-lighten-3"
-                    href="https://www.instagram.com/chamodshehanka/"
+                    href="https://www.instagram.com/sliitfoss/"
                     target="_blank"
                   >
                     Instagram
@@ -60,7 +60,7 @@ const Footer: React.SFC<FooterProps> = () => {
                 <li>
                   <a
                     className="grey-text text-lighten-3"
-                    href="https://twitter.com/chamodhshehanka"
+                    href="https://twitter.com/fosssliit?lang=en"
                     target="_blank"
                   >
                     Twitter
@@ -69,7 +69,7 @@ const Footer: React.SFC<FooterProps> = () => {
                 <li>
                   <a
                     className="grey-text text-lighten-3"
-                    href="https://www.linkedin.com/in/chamod-shehanka-a61583136?trk=hp-identity-name"
+                    href="https://www.linkedin.com/company/sliit-foss-community/posts/?feedView=all"
                     target="_blank"
                   >
                     LinkedIn
@@ -78,7 +78,7 @@ const Footer: React.SFC<FooterProps> = () => {
                 <li>
                   <a
                     className="grey-text text-lighten-3"
-                    href="ttps://github.com/Shehanka"
+                    href="https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w/featured"
                     target="_blank"
                   >
                     Github
@@ -91,6 +91,7 @@ const Footer: React.SFC<FooterProps> = () => {
         <div className="footer-copyright">
           <div className="container">
             © 2021 Chess Play. All right received
+            ©️ 2021 Chess Play. All right received
             {/* <a className="grey-text text-lighten-4 right tooltipped" href="http://chamodshehanka.com" target="_blank" data-position="top" data-delay="50" data-tooltip="Website author">
                     <img src="http://chamodshehanka.com/images/logo%20design.png?crc=3880735088" width="25px" height="25px">
                     Chamod Shehanka
